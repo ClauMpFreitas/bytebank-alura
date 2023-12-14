@@ -1,0 +1,43 @@
+{
+  "conta": {
+    "saldo": 990
+  },
+  "transacoes": [
+    {
+      "transacao": "deposito",
+      "valor": "10",
+      "data": "24/11/2023",
+      "id": 1
+    },
+    {
+      "transacao": "saque",
+      "valor": "20",
+      "data": "24/11/2023",
+      "id": 2
+    },
+    {
+      "transacao": "deposito",
+      "valor": "50",
+      "data": "24/11/2023",
+      "id": 3
+    },
+    {
+      "transacao": "saque",
+      "valor": "40",
+      "data": "24/11/2023",
+      "id": 4
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "13/12/2023",
+      "id": 5
+    },
+    {
+      "transacao": "deposito",
+      "valor": "10",
+      "data": "13/12/2023",
+      "id": 6
+    }
+  ]
+}

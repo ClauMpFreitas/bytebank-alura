@@ -1,0 +1,9 @@
+.transacao-container {
+  width: 400px;
+  margin: 2px auto;
+  padding: 5px;
+  display: grid;
+  width: 600px;
+  grid-template-columns: 1fr 3fr 1fr;
+  background-color: rgb(62, 160, 63, 0.3);
+}
